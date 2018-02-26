@@ -2,6 +2,7 @@
   "id": "app2",
   "image": "wedeploy/hosting:2.0.0",
   "volumes": {
-    "foo": "/wedeploy-container/foo"
+    "foo": "/wedeploy-container/foo",
+    "bar": "/wedeploy-container/bar"
   }
 }

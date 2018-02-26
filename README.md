@@ -1,6 +1,6 @@
 # Volumes
 
-A demo of volumes on [WeDeploy](https://wedeploy.com/).
+A demo of shared and multiple volumes on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
