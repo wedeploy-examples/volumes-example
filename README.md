@@ -1,6 +1,6 @@
-# Volumes
+# Volumes [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com) 
 
-A demo of shared and multiple volumes on [WeDeploy](https://wedeploy.com/).
+An example of shared and multiple volumes on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
