@@ -2,7 +2,7 @@
 
 # Volumes
 
-An example of shared and multiple volumes on [WeDeploy](https://wedeploy.com/).
+An example of [WeDeploy Hosting](https://wedeploy.com/docs/hostig/) with shared and multiple volumes.
 
 ## Instructions
 
